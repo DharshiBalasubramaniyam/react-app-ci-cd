@@ -1,4 +1,14 @@
-# React CI/CD Pipeline
+# React CI/CD Pipeline [Archived]
+
+📦 Repository Archived
+
+This repository has been archived and is no longer maintained.
+
+The frontend and backend codebases have been migrated into a single unified repository for easier development, maintenance, and deployment.
+
+👉 Active Repository: [https://github.com/DharshiBalasubramaniyam/cloud-inventory-app](https://github.com/DharshiBalasubramaniyam/cloud-inventory-app)
+
+- - -
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/react%20js-darkblue?style=for-the-badge">
